@@ -1,1 +1,1 @@
-printf("Hello., life");
+printf("Hello., life .");
